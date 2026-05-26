@@ -2,7 +2,7 @@ function generateTable() {
   let num = document.getElementById("number").value;
   let result = document.getElementById("result");
 
-  
+     
 
   num = Number(num);
   let output = "";
